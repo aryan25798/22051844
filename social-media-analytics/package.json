@@ -1,0 +1,19 @@
+{
+  "name": "social-media-analytics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "axios": "^1.8.4",
+    "express": "^5.1.0",
+    "react-router-dom": "^7.4.1",
+    "tailwindcss": "^4.1.1"
+  }
+}
